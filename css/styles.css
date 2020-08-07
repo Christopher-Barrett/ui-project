@@ -177,3 +177,8 @@ nav {
   padding: 20px;
   display: flex;
 }
+
+.food-content {
+  width: 70%;
+  padding-right: 70%;
+}
