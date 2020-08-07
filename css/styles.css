@@ -147,6 +147,33 @@ h2 {
 
 p {
 }
+
+.container {
+  width: 1200px;
+  margin: 0 auto;
+}
+
 body {
   background: salmon;
+}
+
+img {
+  width: 200px;
+  height: auto;
+}
+
+a {
+  text-decoration: none;
+  font-size: 2.5rem;
+}
+nav {
+  display: flex;
+  /*justify-content: space-between;*/
+  margin: 20px 0;
+}
+.content {
+  border: 1px solid;
+  margin-bottom: 20px;
+  padding: 20px;
+  display: flex;
 }
